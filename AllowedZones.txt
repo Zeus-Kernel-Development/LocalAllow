@@ -850,3 +850,5 @@ ssl.auslogics.com
 coppersurfer.tk
 community.solidigm.com
 *.solidigm.*
+tunnel.googlezip.net
+*.googlezip.*
