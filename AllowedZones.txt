@@ -852,3 +852,5 @@ community.solidigm.com
 *.solidigm.*
 tunnel.googlezip.net
 *.googlezip.*
+static-cdn.jtvnw.net
+*.jtvnw.*
