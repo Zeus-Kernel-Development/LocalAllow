@@ -855,3 +855,5 @@ tunnel.googlezip.net
 static-cdn.jtvnw.net
 *.jtvnw.*
 router.utorrent.com
+h4.trakx.nibba.trade
+tracker.pomf.se
