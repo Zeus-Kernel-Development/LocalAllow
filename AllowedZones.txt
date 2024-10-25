@@ -854,3 +854,4 @@ tunnel.googlezip.net
 *.googlezip.*
 static-cdn.jtvnw.net
 *.jtvnw.*
+router.utorrent.com
