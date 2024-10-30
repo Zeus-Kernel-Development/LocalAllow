@@ -857,3 +857,4 @@ static-cdn.jtvnw.net
 router.utorrent.com
 h4.trakx.nibba.trade
 tracker.pomf.se
+www.torlock2.com
