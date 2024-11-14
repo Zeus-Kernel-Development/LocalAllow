@@ -867,5 +867,6 @@ vidhidehub.com
 *urleecher.com
 *wecima*
 wecima.*
+*.sysinternals.com
 *kirmalk.com
 
