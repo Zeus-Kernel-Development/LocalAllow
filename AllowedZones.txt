@@ -861,3 +861,11 @@ www.torlock2.com
 www.ipv6-test.com
 tracker.zerobytes.xyz
 ipv4.tunnelbroker.net
+vidhidehub.com
+*vidhidehub.com
+*uqload.net
+*urleecher.com
+*wecima*
+wecima.*
+*kirmalk.com
+
