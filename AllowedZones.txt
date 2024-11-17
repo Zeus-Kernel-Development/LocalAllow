@@ -870,3 +870,4 @@ wecima.*
 *.sysinternals.com
 *kirmalk.com
 media.githubusercontent.com
+*windhawk.net
