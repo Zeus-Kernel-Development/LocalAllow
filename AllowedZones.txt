@@ -871,3 +871,6 @@ wecima.*
 *kirmalk.com
 media.githubusercontent.com
 *windhawk.net
+forums.lenovo.com
+*.lenovo.com
+*lenovo.com
