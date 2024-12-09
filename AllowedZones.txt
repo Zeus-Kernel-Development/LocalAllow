@@ -874,3 +874,6 @@ media.githubusercontent.com
 forums.lenovo.com
 *.lenovo.com
 *lenovo.com
+*megalinksqz.click
+*.megalinksqz.click
+megalinksqz.click
