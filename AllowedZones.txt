@@ -886,3 +886,4 @@ dailyuploads.net
 *dailyuploads.net
 previews-app.com
 frdl.io
+mediafire.com
