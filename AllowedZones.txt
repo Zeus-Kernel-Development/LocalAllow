@@ -886,4 +886,7 @@ dailyuploads.net
 *dailyuploads.net
 previews-app.com
 frdl.io
+frdl.*
 mediafire.com
+sdshare.*
+filespayouts.com
