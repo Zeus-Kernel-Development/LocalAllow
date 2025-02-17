@@ -888,5 +888,7 @@ previews-app.com
 frdl.io
 frdl.*
 mediafire.com
+*.mediafire.com
+*.mediafire.*
 sdshare.*
 filespayouts.com
