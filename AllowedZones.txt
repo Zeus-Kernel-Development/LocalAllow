@@ -892,3 +892,4 @@ mediafire.com
 *.mediafire.*
 sdshare.*
 filespayouts.com
+terabox.com
