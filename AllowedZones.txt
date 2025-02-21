@@ -891,5 +891,6 @@ mediafire.com
 *.mediafire.com
 *.mediafire.*
 sdshare.*
+lanzoub.com
 filespayouts.com
 terabox.com
