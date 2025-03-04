@@ -894,3 +894,4 @@ sdshare.*
 lanzoub.com
 filespayouts.com
 terabox.com
+codeload.github.com
