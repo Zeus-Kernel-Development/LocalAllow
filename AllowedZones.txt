@@ -895,3 +895,6 @@ lanzoub.com
 filespayouts.com
 terabox.com
 codeload.github.com
+*.repackcloud.*
+repackcloud.*
+*.repackcloud
