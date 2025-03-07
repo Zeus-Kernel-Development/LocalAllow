@@ -899,3 +899,5 @@ codeload.github.com
 repackcloud.*
 *.repackcloud
 lanzoub.com
+dnscheck.tools
+dnscheck.*
