@@ -898,3 +898,4 @@ codeload.github.com
 *.repackcloud.*
 repackcloud.*
 *.repackcloud
+lanzoub.com
