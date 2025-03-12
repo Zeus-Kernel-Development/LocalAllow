@@ -901,3 +901,8 @@ repackcloud.*
 lanzoub.com
 dnscheck.tools
 dnscheck.*
+tracker.zhuqiy.top
+tracker.waaa.moe
+leet-tracker.moe
+tracker.ololosh.space
+4.tracker.devnak.win
