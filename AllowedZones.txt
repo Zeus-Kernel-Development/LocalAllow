@@ -909,5 +909,9 @@ tracker.ololosh.space
 www.lanzoub.com
 tracker.ghostchu-services.top
 highteahop.top
+pcloud.*
+pcloud.com
+pcloud.link
+*.pcloud.*
 tracker.23794.top
 utracker.ghostchu-services.top
