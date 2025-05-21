@@ -917,3 +917,5 @@ assets.immersivetranslate.cn
 downloads.sourceforge.net
 tracker.23794.top
 utracker.ghostchu-services.top
+forum.romexsoftware.com
+romexsoftware.com
