@@ -919,3 +919,5 @@ tracker.23794.top
 utracker.ghostchu-services.top
 forum.romexsoftware.com
 romexsoftware.com
+equalizerapo.sourceforge.io
+sourceforge.io
