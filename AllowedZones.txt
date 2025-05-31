@@ -922,5 +922,6 @@ romexsoftware.com
 equalizerapo.sourceforge.io
 sourceforge.io
 dyncdn.cc
+uploads.disquscdn.com
 master.dl.sourceforge.net
 *.dyncdn.cc
