@@ -921,3 +921,6 @@ forum.romexsoftware.com
 romexsoftware.com
 equalizerapo.sourceforge.io
 sourceforge.io
+dyncdn.cc
+master.dl.sourceforge.net
+*.dyncdn.cc
