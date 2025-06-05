@@ -925,3 +925,5 @@ dyncdn.cc
 uploads.disquscdn.com
 master.dl.sourceforge.net
 *.dyncdn.cc
+web.imhex.werwolv.net
+imhex.werwolv.net
