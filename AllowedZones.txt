@@ -927,3 +927,11 @@ master.dl.sourceforge.net
 *.dyncdn.cc
 web.imhex.werwolv.net
 imhex.werwolv.net
+tr.nyacat.pw
+tracker.corpscorp.online
+tr.kxmp.cf
+bt1.xxxxbt.cc
+sparkle.ghostchu-services.top
+tutuapp.uno
+husky.moe
+
