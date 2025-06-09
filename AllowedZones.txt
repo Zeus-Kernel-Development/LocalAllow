@@ -934,4 +934,4 @@ bt1.xxxxbt.cc
 sparkle.ghostchu-services.top
 tutuapp.uno
 husky.moe
-
+ping-test.net
