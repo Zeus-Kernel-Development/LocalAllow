@@ -942,5 +942,5 @@ eds-v2.piped.xn--17b.net
 pipedapi-libre.kavin.rocks
 inv.nadeko.net
 invidious.nerdvpn.de
-invidious.f5.si cloudflare
+invidious.f5.si
 yewtu.be
