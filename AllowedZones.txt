@@ -936,3 +936,11 @@ tutuapp.uno
 husky.moe
 ping-test.net
 x.com
+piped-material.xn--17b.net
+piped-material.ftp.sh
+eds-v2.piped.xn--17b.net
+pipedapi-libre.kavin.rocks
+inv.nadeko.net
+invidious.nerdvpn.de
+invidious.f5.si cloudflare
+yewtu.be
