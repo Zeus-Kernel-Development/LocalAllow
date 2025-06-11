@@ -944,3 +944,10 @@ inv.nadeko.net
 invidious.nerdvpn.de
 invidious.f5.si
 yewtu.be
+cf.piped.video
+vc.piped.video
+re.piped.video
+fl.piped.video
+do.piped.video
+nf.piped.video
+az.piped.video
