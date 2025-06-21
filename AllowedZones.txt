@@ -1019,3 +1019,6 @@ www.gta-xtreme.com
 www.gamingtierlist.com
 www.gtaboom.com
 rumble.store
+chromium.api.cdn-perfprod.com
+status.perfprod.com
+chrome.crxsoso.com
