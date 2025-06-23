@@ -1027,3 +1027,5 @@ app.chronodownloader.net
 *.gamecopyworld.*
 www.crxsoso.com
 *.crxsoso.*
+cloudflare.com
+*.cloudflare.*
