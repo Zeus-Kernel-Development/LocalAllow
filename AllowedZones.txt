@@ -1024,3 +1024,6 @@ chrome.api.cdn-perfprod.com
 status.perfprod.com
 chrome.crxsoso.com
 app.chronodownloader.net
+*.gamecopyworld.*
+www.crxsoso.com
+*.crxsoso.*
