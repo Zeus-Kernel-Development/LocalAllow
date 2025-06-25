@@ -1029,3 +1029,4 @@ www.crxsoso.com
 *.crxsoso.*
 cloudflare.com
 *.cloudflare.*
+inference.location.live.net
