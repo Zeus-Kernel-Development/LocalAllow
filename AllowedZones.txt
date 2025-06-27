@@ -1034,3 +1034,5 @@ tracker.tfile.me
 shadowshq.yi.org
 glotorrents.pw
 torrentproject.cc
+glotorrents.pw
+tracker.tfile.me
