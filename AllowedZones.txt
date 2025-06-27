@@ -1030,3 +1030,7 @@ www.crxsoso.com
 cloudflare.com
 *.cloudflare.*
 inference.location.live.net
+tracker.tfile.me
+shadowshq.yi.org
+glotorrents.pw
+torrentproject.cc
