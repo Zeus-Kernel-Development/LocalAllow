@@ -1039,3 +1039,4 @@ tracker.tfile.me
 inferno.demonoid.ooo
 thetracker.org
 torrentgalaxy.to
+sportskeeda.com
