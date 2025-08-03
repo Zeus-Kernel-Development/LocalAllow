@@ -1042,3 +1042,4 @@ torrentgalaxy.to
 sportskeeda.com
 dl.sourceforge.net
 *.sourceforge.*
+region.nl1.privex.cc
