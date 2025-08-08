@@ -1042,4 +1042,10 @@ torrentgalaxy.to
 sportskeeda.com
 dl.sourceforge.net
 *.sourceforge.*
+tracker.cutie.dating
+tracker.zupix.online
+tracker.healthcareindia.store
+tracker.skillindia.site
+tracker.bitcoinindia.space
 region.nl1.privex.cc
+
