@@ -1051,5 +1051,8 @@ region.nl1.privex.cc
 tracker.yume-hatsuyuki.moe
 akirabox.com
 client2pubsub.europe.es-dis.net
+edgenext.cdn.steampipe.steamcontent.com
+alibaba.cdn.steampipe.steamcontent.com
+auth.embark.net
 
 
