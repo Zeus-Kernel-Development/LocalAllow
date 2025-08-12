@@ -1054,5 +1054,7 @@ client2pubsub.europe.es-dis.net
 edgenext.cdn.steampipe.steamcontent.com
 alibaba.cdn.steampipe.steamcontent.com
 auth.embark.net
-
+api-gateway.europe.es-dis.net
+*.es-dis.net
+*.embark.net
 
