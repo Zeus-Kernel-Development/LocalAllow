@@ -1059,4 +1059,7 @@ api-gateway.europe.es-dis.net
 *.embark.net
 ooklaserver.net
 *.ooklaserver.net
+tracker.dump.cl
+tracker.0x7c0.com
+public-tracker.cf
 
