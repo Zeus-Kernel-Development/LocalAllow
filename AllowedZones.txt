@@ -1062,4 +1062,6 @@ ooklaserver.net
 tracker.dump.cl
 tracker.0x7c0.com
 public-tracker.cf
+cloudflare-dns.com
+forums.serverbuilds.net
 
