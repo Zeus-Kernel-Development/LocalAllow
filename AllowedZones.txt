@@ -3793,3 +3793,4 @@ open.stealth.si
 tracker.opentrackr.org
 tracker.coppersurfer.tk
 exodus.desync.com
+ipv6-test.com
