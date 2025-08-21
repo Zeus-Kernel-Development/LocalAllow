@@ -3794,3 +3794,6 @@ tracker.opentrackr.org
 tracker.coppersurfer.tk
 exodus.desync.com
 ipv6-test.com
+tracker.nekobt.to
+open.u-p.pw
+tracker.fatkhoala.org
