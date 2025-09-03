@@ -3807,4 +3807,10 @@ mrproblogger.com
 mrproblogger.*
 pixeldrain.dev
 pixeldrain.*
-
+www.msftncsi.com
+dns.msftncsi.com
+ipv6.msftconnecttest.com
+ipv4only.arpa
+time.google.com
+*.msftncsi.*
+*.msftconnecttest.*
