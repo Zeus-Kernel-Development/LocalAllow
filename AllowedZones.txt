@@ -3818,3 +3818,5 @@ vn-z.vn
 busycdn.cfd
 gdflix.dev
 gdflix.*
+r2.dev
+r2.*
