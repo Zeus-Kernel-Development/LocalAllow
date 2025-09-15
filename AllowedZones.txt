@@ -3819,4 +3819,10 @@ busycdn.cfd
 gdflix.dev
 gdflix.*
 r2.dev
+goflix.*
+goflix.sbs
+foxcloud.lol
 r2.*
+foxcloud.*
+akirabox.com
+akirabox.*
