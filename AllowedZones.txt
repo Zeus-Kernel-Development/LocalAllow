@@ -3827,3 +3827,6 @@ foxcloud.*
 akirabox.com
 akirabox.*
 security.cloudflare-dns.com
+*.cloudflare-dns.com
+*.cloudflare-dns.*
+1dot1dot1dot1.cloudflare-dns.com
