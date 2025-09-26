@@ -3830,3 +3830,5 @@ security.cloudflare-dns.com
 *.cloudflare-dns.com
 *.cloudflare-dns.*
 1dot1dot1dot1.cloudflare-dns.com
+tracker.zhuqiy.com
+instant.busycdn.cfd
