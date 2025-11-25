@@ -6,6 +6,10 @@
 *.googleusercontent.com
 *.googlevideo.*
 *.googlevideo.com
+adm.star-conflict.com
+node09st-ru.star-conflict.com
+node07sv-ru.star-conflict.com
+star-conflict.com
 *.gvt1.*
 *.imageban.*
 *.imageban.ru
@@ -3832,3 +3836,4 @@ security.cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
 tracker.zhuqiy.com
 instant.busycdn.cfd
+
