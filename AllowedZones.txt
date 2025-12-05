@@ -952,6 +952,8 @@ tr4ck3r.duckdns.org
 station-drivers.com
 dailyuploads.net
 *dailyuploads.net
+*dailyuploads.*
+*.dailyuploads.*
 previews-app.com
 frdl.io
 frdl.*
@@ -3836,4 +3838,5 @@ security.cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
 tracker.zhuqiy.com
 instant.busycdn.cfd
+
 
