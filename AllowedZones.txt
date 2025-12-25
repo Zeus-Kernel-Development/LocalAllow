@@ -6,6 +6,8 @@
 *.googleusercontent.com
 *.googlevideo.*
 *.googlevideo.com
+katfile.*
+*.katfile.*
 adm.star-conflict.com
 node09st-ru.star-conflict.com
 node07sv-ru.star-conflict.com
@@ -3841,6 +3843,7 @@ security.cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
 tracker.zhuqiy.com
 instant.busycdn.cfd
+
 
 
 
