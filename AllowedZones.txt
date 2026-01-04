@@ -6,6 +6,8 @@
 *.googleusercontent.com
 *.googlevideo.*
 *.googlevideo.com
+*.blob.core.windows.net
+msdl.microsoft.com
 katfile.*
 *.katfile.*
 *.dailyuploads.*
@@ -3845,6 +3847,7 @@ security.cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
 tracker.zhuqiy.com
 instant.busycdn.cfd
+
 
 
 
