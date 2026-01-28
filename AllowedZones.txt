@@ -10,6 +10,8 @@
 msdl.microsoft.com
 katfile.*
 *.katfile.*
+.gdflix.app
+*.gdflix.*
 *.dailyuploads.*
 dailyuploads.*
 indexserver.xyz
@@ -3850,6 +3852,7 @@ security.cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
 tracker.zhuqiy.com
 instant.busycdn.cfd
+
 
 
 
