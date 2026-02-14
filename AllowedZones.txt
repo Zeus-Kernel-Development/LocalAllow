@@ -9,6 +9,7 @@
 *.blob.core.windows.net
 msdl.microsoft.com
 katfile.*
+eos-general.s3.amazonaws.com
 xboxservices.com
 *.xboxservices.com
 *.xboxservices.*
@@ -3855,6 +3856,7 @@ security.cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
 tracker.zhuqiy.com
 instant.busycdn.cfd
+
 
 
 
