@@ -17,6 +17,9 @@ xboxservices.com
 .gdflix.app
 *.gdflix.*
 *.dailyuploads.*
+premium.katfile.cloud
+katfile.cloud
+*.katfile.cloud
 dailyuploads.*
 indexserver.xyz
 *.indexserver.xyz
@@ -3856,6 +3859,7 @@ security.cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
 tracker.zhuqiy.com
 instant.busycdn.cfd
+
 
 
 
