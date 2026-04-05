@@ -11,6 +11,8 @@ msdl.microsoft.com
 katfile.*
 eos-general.s3.amazonaws.com
 xboxservices.com
+dailyuploads.net
+dailyuploads.*
 *.xboxservices.com
 *.xboxservices.*
 *.katfile.*
