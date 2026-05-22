@@ -17,6 +17,8 @@ dailyuploads.*
 *.xboxservices.*
 *.katfile.*
 .gdflix.app
+yts.bz
+yts.*
 *.gdflix.*
 *.dailyuploads.*
 premium.katfile.cloud
