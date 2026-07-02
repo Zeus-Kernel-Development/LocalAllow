@@ -17,6 +17,10 @@ dailyuploads.*
 *.xboxservices.*
 *.katfile.*
 .gdflix.app
+ipv6check-udp.steamserver.net
+*.steamserver.net
+ipv6check-udp.steamserver.*
+*.steamserver.*
 yts.bz
 yts.*
 *.gdflix.*
