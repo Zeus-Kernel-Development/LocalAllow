@@ -16,6 +16,7 @@ fileq.net
 fileditchfiles.*
 fileq.*
 *.fileditchfiles.*
+www.pixeldrain.net
 *.fileq.*
 dailyuploads.net
 dailyuploads.*
