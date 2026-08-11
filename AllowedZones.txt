@@ -19,6 +19,8 @@ fileq.*
 www.pixeldrain.net
 *.fileq.*
 dailyuploads.net
+files-cdn.com
+*.files-cdn.com
 dailyuploads.*
 *.xboxservices.com
 *.xboxservices.*
