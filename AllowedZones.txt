@@ -19,6 +19,9 @@ fileq.*
 www.pixeldrain.net
 *.fileq.*
 dailyuploads.net
+www.av1core.cyou
+www.av1core.*
+*.av1core.*
 files-cdn.com
 *.files-cdn.com
 dailyuploads.*
