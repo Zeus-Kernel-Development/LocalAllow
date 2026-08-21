@@ -22,6 +22,7 @@ dailyuploads.net
 www.av1core.cyou
 www.av1core.*
 *.av1core.*
+av1core.cyou
 files-cdn.com
 *.files-cdn.com
 dailyuploads.*
