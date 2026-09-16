@@ -18,6 +18,9 @@ fileq.*
 *.fileditchfiles.*
 www.pixeldrain.net
 *.fileq.*
+vik1ngfile.site
+vik1ngfile.*
+*.vik1ngfile.site
 dailyuploads.net
 www.av1core.cyou
 www.av1core.*
