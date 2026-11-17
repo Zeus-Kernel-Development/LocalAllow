@@ -24,6 +24,11 @@ vik1ngfile.*
 dailyuploads.net
 www.av1core.cyou
 www.av1core.*
+z-lib.sk
+z-library.im
+z-library.sk
+z-library.hn
+z-library.la
 *.av1core.*
 av1core.cyou
 files-cdn.com
